@@ -32,7 +32,8 @@ BookBuddy stands out from other book search applications due to the following sp
 - Google Books API
 
 ## Getting Started
-Download the code and run index.html file
+- Download the code and run index.html file
+- To view the project click on this link: https://book-buddy-liart.vercel.app/
 
 ## Usage
 1. Open the BookBuddy web application.
